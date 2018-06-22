@@ -16,8 +16,9 @@
 检查电脑串口通讯是否正常，如果电脑没有串口可安装虚拟串口软件替代，并添加至少两个com口。<br>
 然后，用 注册MSCOMM32.BAT(已提供) 文件正确注册 MSCOMM32.OCX（需自行从网上下载） 
 
-全部配置好之后，应该如下实时返回数据
+全部配置好之后，应该如下实时返回数据<br>
 
+![Image text](https://github.com/ebony2014/jsInvokeSerialData/blob/master/%E6%88%90%E5%8A%9F%E8%8E%B7%E5%8F%96%E4%B8%B2%E5%8F%A3%E6%95%B0%E6%8D%AE%E6%88%AA%E5%9B%BE.png)
 
 
 
