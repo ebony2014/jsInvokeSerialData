@@ -11,4 +11,7 @@
 [\<object\> 标签](http://www.w3school.com.cn/html/html_object.asp)<br>
 [\<script\>标签的for属性和event属性](https://www.cnblogs.com/yuteng/articles/1836474.html)
 
-
+在打开dome（index2.html）之前<br>
+请确保你安装了IE内核的浏览器、串口调试助手（或其他可代替发送数据的工具),<br>
+检查电脑串口通讯是否正常，如果电脑没有串口可安装虚拟串口软件替代，并添加至少两个com口。<br>
+然后，用 注册MSCOMM32.BAT 文件正确注册 MSCOMM32.OCX 
